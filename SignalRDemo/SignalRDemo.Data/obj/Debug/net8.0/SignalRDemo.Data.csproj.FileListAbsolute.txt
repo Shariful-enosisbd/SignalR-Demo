@@ -1,0 +1,12 @@
+D:\SSE1_Presentation\SignalR\SigmalRDemo\SignalRDemo.Data\bin\Debug\net8.0\SignalRDemo.Data.deps.json
+D:\SSE1_Presentation\SignalR\SigmalRDemo\SignalRDemo.Data\bin\Debug\net8.0\SignalRDemo.Data.dll
+D:\SSE1_Presentation\SignalR\SigmalRDemo\SignalRDemo.Data\bin\Debug\net8.0\SignalRDemo.Data.pdb
+D:\SSE1_Presentation\SignalR\SigmalRDemo\SignalRDemo.Data\obj\Debug\net8.0\SignalRDemo.Data.csproj.AssemblyReference.cache
+D:\SSE1_Presentation\SignalR\SigmalRDemo\SignalRDemo.Data\obj\Debug\net8.0\SignalRDemo.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\SSE1_Presentation\SignalR\SigmalRDemo\SignalRDemo.Data\obj\Debug\net8.0\SignalRDemo.Data.AssemblyInfoInputs.cache
+D:\SSE1_Presentation\SignalR\SigmalRDemo\SignalRDemo.Data\obj\Debug\net8.0\SignalRDemo.Data.AssemblyInfo.cs
+D:\SSE1_Presentation\SignalR\SigmalRDemo\SignalRDemo.Data\obj\Debug\net8.0\SignalRDemo.Data.csproj.CoreCompileInputs.cache
+D:\SSE1_Presentation\SignalR\SigmalRDemo\SignalRDemo.Data\obj\Debug\net8.0\SignalRDemo.Data.dll
+D:\SSE1_Presentation\SignalR\SigmalRDemo\SignalRDemo.Data\obj\Debug\net8.0\refint\SignalRDemo.Data.dll
+D:\SSE1_Presentation\SignalR\SigmalRDemo\SignalRDemo.Data\obj\Debug\net8.0\SignalRDemo.Data.pdb
+D:\SSE1_Presentation\SignalR\SigmalRDemo\SignalRDemo.Data\obj\Debug\net8.0\ref\SignalRDemo.Data.dll

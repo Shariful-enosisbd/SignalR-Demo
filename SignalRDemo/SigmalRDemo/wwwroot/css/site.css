@@ -1,0 +1,63 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.disabled-border {
+    border: 2px solid #d3d3d3; /* Light gray color for disabled look */
+    padding: 10px;
+    border-radius: 5px; /* Optional: makes the border corners rounded */
+    color: #6c757d; /* Optional: Text color to match a disabled style */
+    background-color: #f8f9fa; /* Optional: Background for a more disabled look */
+}
+
+.form-group {
+    width: 100% !important;
+    justify-content: center;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.same-size {
+    width: 300px; /* Set the same width */
+    height: 100px; /* Set the same height */
+    padding: 10px; /* Set the same padding */
+    font-size: 16px; /* Set the same font size */
+    border: 1px solid #ccc; /* Set the same border */
+    border-radius: 5px; /* Optional: Rounded corners for both */
+    box-sizing: border-box; /* Ensures padding is included in the width/height */
+}
+
+.scrollable-div {
+    max-height: 550px; /* Set maximum height to 200px */
+    overflow-y: auto; /* Enable vertical scrolling if content exceeds max-height */
+}
+
+.colored-div {
+    background-color: lightblue; /* Set the background color */
+    padding: 20px; /* Add padding for better visibility */
+    width: 300px; /* Optional: Set a specific width */
+    height: 150px; /* Optional: Set a specific height */
+    border: 1px solid #000; /* Optional: Add a border for clarity */
+}
+
